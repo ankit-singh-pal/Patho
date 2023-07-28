@@ -1,6 +1,11 @@
+com\amrit\pathology\entity\CustomerEntity.class
 com\amrit\pathology\service\ItemService.class
 com\amrit\pathology\service\impl\ItemServiceImpl.class
+com\amrit\pathology\service\CustomerService.class
+com\amrit\pathology\repository\CustomerRepository.class
+com\amrit\pathology\controller\CustomerController.class
 com\amrit\pathology\PathoLabApplication.class
 com\amrit\pathology\repository\ItemsRepository.class
+com\amrit\pathology\service\impl\CustomerServiceImpl.class
 com\amrit\pathology\controller\ItemsController.class
 com\amrit\pathology\entity\ItemEntity.class
